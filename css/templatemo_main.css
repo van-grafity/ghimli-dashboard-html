@@ -179,6 +179,7 @@ img.slide {
     overflow:hidden; 
     position:fixed; 
     bottom: 10px;
+    left: 15px;
 }
 
 .footer-text {
@@ -240,7 +241,7 @@ img.slide {
 @media (max-width: 991px) {
     .footer {
         overflow:hidden; 
-        position:static;
+        /* position:static; */
         text-align: center;
     }
     
